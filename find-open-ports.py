@@ -1,4 +1,9 @@
-# pip3 install colorama
+#############################
+#                           #
+#    By Gilbert A. Yeboah   #
+#                           #
+#############################
+
 
 import socket # for connecting
 from colorama import init, Fore
